@@ -17,12 +17,12 @@
 ---
 <img src="https://img.shields.io/badge/Python-8B5FBF?style=flat&logo=python&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/C%23-6A3787?style=flat&logo=c-sharp&logoColor=white" height="30"><br>
+
     </td>
     <td>
 
 ### 🔧 Technologies
 ---
-<img src="https://img.shields.io/badge/PostgreSQL-8B5FBF?style=flat&logo=postgresql&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/Git-7A4BA3?style=flat&logo=git&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/MATLAB-8B5FBF?style=flat&logo=mathworks&logoColor=white" height="30">
     </td>
@@ -39,8 +39,7 @@
 ### 🛠️ Development Tools
 ---
 <img src="https://img.shields.io/badge/VSCode-8B5FBF?style=flat&logo=visual-studio-code&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/curl-7A4BA3?style=flat&logo=curl&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/Linux-6A3787?style=flat&logo=linux&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-8B5FBF?style=flat&logo=intellij-idea&logoColor=white" height="30">
     </td>
   </tr>
 </table>
