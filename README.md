@@ -17,7 +17,6 @@
 ---
 <img src="https://img.shields.io/badge/Python-8B5FBF?style=flat&logo=python&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/C%23-6A3787?style=flat&logo=c-sharp&logoColor=white" height="30"><br>
-
     </td>
     <td>
 
