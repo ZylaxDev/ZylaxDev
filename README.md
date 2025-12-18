@@ -4,7 +4,7 @@
 
 ![Banner](assets/bannerProfile.gif)
 
-### 🚀 Aersopace Engineer
+### 🚀 Aersopace Engineering Student
 
 </div>
 
