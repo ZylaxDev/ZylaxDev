@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ Hi there! 💜 I'm Mipa
+# ✨ Hi there! 💛 I'm Zylax
 
 ![Banner](assets/bannerProfile.gif)
 
-### 🚀 Software Developer
+### 🚀 Aersopace Engineer
 
 </div>
 
@@ -49,6 +49,8 @@
 ## 🔥 Current Focus
 
 - 🎮 **Game development** - game engines and gamedev architecture
+- 📐 Flight Dynamics & Control
+  
 
 ## 🎯 Interests & Hobbies
 
@@ -59,4 +61,5 @@
 
 ## 📫 Connect With Me
 
+- **Discord: Zylax.dev**
             
