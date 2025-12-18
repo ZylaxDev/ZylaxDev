@@ -24,7 +24,7 @@
 ---
 <img src="https://img.shields.io/badge/PostgreSQL-8B5FBF?style=flat&logo=postgresql&logoColor=white" height="30"><br>
 <img src="https://img.shields.io/badge/Git-7A4BA3?style=flat&logo=git&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/Docker-6A3787?style=flat&logo=docker&logoColor=white" height="30"><br>
+<img src="https://img.shields.io/badge/MATLAB-8B5FBF?style=flat&logo=mathworks&logoColor=white" height="30">
     </td>
     <td>
 
