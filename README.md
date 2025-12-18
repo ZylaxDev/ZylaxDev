@@ -2,9 +2,7 @@
 
 # ✨ Hi there! 💛 I'm Zylax
 
-<div align="center">
-  <img src="assets/bannerProfile.gif" alt="Banner" width="100%">
-</div>
+![Banner](assets/bannerProfile (1).gif)
 
 ### 🚀 Aersopace Engineer
 
