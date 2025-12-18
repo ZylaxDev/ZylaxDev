@@ -28,14 +28,6 @@
     </td>
     <td>
 
-### ⚡ Frameworks
----
-<img src="https://img.shields.io/badge/FastAPI-8B5FBF?style=flat&logo=fastapi&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/GORM-7A4BA3?style=flat&logo=go&logoColor=white" height="30"><br>
-<img src="https://img.shields.io/badge/.NET-6A3787?style=flat&logo=dotnet&logoColor=white" height="30"><br>
-    </td>
-    <td>
-
 ### 🛠️ Development Tools
 ---
 <img src="https://img.shields.io/badge/VSCode-8B5FBF?style=flat&logo=visual-studio-code&logoColor=white" height="30"><br>
